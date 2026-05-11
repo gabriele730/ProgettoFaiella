@@ -1,0 +1,23 @@
+[33mcommit 0fd061a91b3f1f9dff7d431b9a845c95315a3753[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gabriele730 <faiella.gabriele@itismeucci.com>
+Date:   Fri May 8 20:49:48 2026 +0200
+
+    Create README.md
+
+[33mcommit 76530811cc0a610023e0af383f24e80e6c02a07d[m
+Author: gabriele <faiella.gabriele@itismeucci.com>
+Date:   Fri May 8 20:15:11 2026 +0200
+
+    add bootstrap
+
+[33mcommit 828e21f96595f61344addc31e0b8cb62bfda2fe6[m
+Author: gabriele <faiella.gabriele@itismeucci.com>
+Date:   Fri May 8 20:12:57 2026 +0200
+
+    add styles
+
+[33mcommit dd77ac97db49d09d10d59da4b79fe29901a3478c[m
+Author: gabriele <faiella.gabriele@itismeucci.com>
+Date:   Fri May 8 20:09:53 2026 +0200
+
+    setup progetto add index
