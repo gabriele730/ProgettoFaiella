@@ -1,3 +1,11 @@
 h1{
     font-style: italic;
 }
+@import url('https://fonts.googleapis.com/css2?family=Akt:wght@100..900&display=swap');
+
+.akt{
+  font-family: "Akt", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
